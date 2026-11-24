@@ -1,2 +1,2 @@
-# Posnow-Offline-installer
-posnow exe installer offline
+# Posnow-insataller
+Posnow-insataller for werbview at client side 
